@@ -156,6 +156,7 @@ dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus-ip1001m.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus-oc.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus-q1.dtb
 dtb-$(CONFIG_ARCH_MESON) += meson-sm1-x96-max-plus-q2.dtb
+dtb-$(CONFIG_ARCH_MESON) += meson-sc2-s905x4-ah212.dtb
 
 # Overlays
 meson-g12a-fbx8am-brcm-dtbs	:= meson-g12a-fbx8am.dtb meson-g12a-fbx8am-brcm.dtbo
