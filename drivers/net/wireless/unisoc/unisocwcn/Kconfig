@@ -64,7 +64,7 @@ config WCN_BSP_DRIVER_BUILDIN
 
 config AML_WIFI_DEVICE_UWE5621
 	bool "amlogic board Support for uwe5621"
-	default n
+	default y
 	help
 	  This is support wcn chip for amlogic board.
 	  if you want to support amlogic board.
